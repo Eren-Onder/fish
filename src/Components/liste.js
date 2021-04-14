@@ -1,6 +1,6 @@
 function Liste(props) {
   return (
-    <ul>
+    <ul className="listem">
       <li>{props.fish.fishType} </li>
       <li>{props.fish.price} </li>
       <li>{props.fish.entryDate}</li>

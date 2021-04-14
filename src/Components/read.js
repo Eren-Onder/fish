@@ -11,7 +11,6 @@ export default function Read() {
             <tr>
               <td>{f.fishType} </td>
               <td>{f.price} </td>
-
               <td>{f.durationInDays}</td>
               <td>{f.itemWeightInGrams}</td>
               <td>{f.originCountry}</td>
